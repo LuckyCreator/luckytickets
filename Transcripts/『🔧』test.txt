@@ -1,0 +1,9 @@
+LuckyTickets#1305: This ticket closes in **10** seconds. Type **cancel** to stop the process.
+ItsJustBr4m#2666: !close
+LuckyTickets#1305: 
+ItsJustBr4m#2666: !close
+LuckyTickets#1305: Channelname is changed to:** Test**
+ItsJustBr4m#2666: !rename Test
+LuckyTickets#1305: 
+LuckyTickets#1305: <@439859679871500288>, <@&796349915520827433>.
+
